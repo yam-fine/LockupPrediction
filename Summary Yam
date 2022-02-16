@@ -1,0 +1,7 @@
+Dense layer - layer that is deeply connected with its preceding layer which
+    means the neurons of the layer are connected to every neuron of its
+    preceding layer.
+LSTM layer - are a special kind of RNNs that deals with the long term
+    dependency problem effectively. LSTM networks have a repeating module that
+    has 4 different neural network layers interacting to deal with the long
+    term dependency problem.
